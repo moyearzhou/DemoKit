@@ -3,15 +3,20 @@
     package="com.moyear.demokit">
 
     <application
+        android:name=".MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:name=".MyApplication"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DemoKit">
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.DemoContainerActivity"
+            android:exported="false"
+            android:label="@string/title_activity_demo_view"
+            android:theme="@style/Theme.DemoKit.NoActionBar" />
+        <activity
+            android:name=".activity.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,6 +24,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="false"
+            android:label="@string/title_activity_home" />
+        <activity
+            android:name=".activity.AutoBindViewActivity"
+            android:exported="true"></activity>
     </application>
 
 </manifest>

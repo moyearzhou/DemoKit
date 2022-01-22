@@ -4,7 +4,7 @@ import android.app.Application;
 
 /**
  * @version V1.0
- * @Author :
+ * @Author : Moyear
  * @Time : 2022/1/7 21:46
  * @Description : 应用application
  */

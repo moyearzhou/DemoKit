@@ -3,7 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26666666666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/drawable/ic_icon.xml" value="0.26666666666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/drawable/ic_launcher.xml" value="0.26666666666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26666666666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/activity_demo_view.xml" value="0.25885416666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/activity_home.xml" value="0.25885416666666666" />
         <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/activity_splash.xml" value="0.25885416666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/fragment_demo_view.xml" value="0.24427083333333333" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/fragment_head_recycyler_view.xml" value="0.25885416666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/fragment_home.xml" value="0.25885416666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/fragment_notifications.xml" value="0.25885416666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/item_footer_view.xml" value="0.25885416666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/item_head_view.xml" value="0.25885416666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/layout/item_view_simple.xml" value="0.25" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25885416666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/menu/menu_activity_demo.xml" value="0.25885416666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14947916666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26666666666666666" />
+        <entry key="..\:/Moyear/Dev/Android/DemoKit/app/src/main/res/xml/root_preferences.xml" value="0.25885416666666666" />
       </map>
     </option>
   </component>

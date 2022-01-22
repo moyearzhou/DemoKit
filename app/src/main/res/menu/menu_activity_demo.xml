@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_show_key"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="查看关键信息" />
+
+    <item
+        android:id="@+id/menu_show_code"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="源代码" />
+
+    <item
+        android:id="@+id/menu_show_reference"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="显示参考" />
+
+</menu>

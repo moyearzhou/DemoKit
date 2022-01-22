@@ -57,6 +57,8 @@ public class ExceptionCrashHandler implements Thread.UncaughtExceptionHandler {
         String strDeviceInfo = getBasicInfo();
         String strException = obtainExceptionInfo(throwable);
 
+//        String strException = obtainExceptionInfo(throwable);
+
         String crashLogText = strDeviceInfo + "\n=====================\n" + strException;
         saveCrashLogToSdcard(crashLogText);
     }
