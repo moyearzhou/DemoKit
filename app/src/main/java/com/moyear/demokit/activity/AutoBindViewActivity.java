@@ -4,11 +4,10 @@ import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.moyear.demokit.BaseActivity;
 import com.moyear.demokit.R;
-import com.moyear.moyearutils.annotations.Bind;
-import com.moyear.moyearutils.annotations.OnClick;
-import com.moyear.moyearutils.annotations.ViewBinder;
+import com.moyear.libs.Bind;
+import com.moyear.libs.OnClick;
+import com.moyear.libs.ViewBinder;
 
 /**
  * 演示Activity：利用反射自动绑定View

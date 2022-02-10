@@ -1,4 +1,4 @@
-package com.moyear.moyearutils.annotations;
+package com.moyear.libs;
 
 import android.app.Activity;
 import android.view.View;

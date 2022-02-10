@@ -1,4 +1,4 @@
-package com.moyear.moyearutils;
+package com.moyear.libs;
 
 import org.junit.Test;
 

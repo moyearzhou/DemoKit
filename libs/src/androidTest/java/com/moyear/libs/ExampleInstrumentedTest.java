@@ -1,4 +1,4 @@
-package com.moyear.moyearutils;
+package com.moyear.libs;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.moyear.moyearutils.test", appContext.getPackageName());
+        assertEquals("com.moyear.libs.test", appContext.getPackageName());
     }
 }
